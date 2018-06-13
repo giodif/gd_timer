@@ -1,6 +1,6 @@
 {
   "name": "gd_timer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic timer that relies on requestAnimationFrame",
   "main": "timer.js",
   "scripts": {
