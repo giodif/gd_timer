@@ -1,0 +1,16 @@
+{
+  "name": "gd_timer",
+  "version": "0.0.1",
+  "description": "Basic timer that relies on getAnimationFrame",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timer",
+    "looping",
+    "time"
+  ],
+  "author": "Giovanni DiFeterici <gdifeterici@gmail.com>",
+  "license": "ISC"
+}
